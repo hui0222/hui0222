@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 이력서
-
 ## 소개
 - 박동휘
 
