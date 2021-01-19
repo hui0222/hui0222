@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - 가온엔아이티 16.10 ~ 18.10
 
 ## 사용기술
+<a href="링크걸_주소">
+    <img src="https://simpleicons.org/icons/jitsi.svg"/>
+</a>&nbsp
 - JAVA
 - PHP
 
