@@ -56,4 +56,30 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/redis-gray?style=flat-square&logo=redis&logoColor=white"/>
 </div>
 
-##프로젝트
+
+## 프로젝트
+
+### 피부시술정보 플랫폼 개발 및 운영업무  
+- Elastic Search Cloud 환경 검색엔진 구축
+- JAVA API및 피부보험 관리자페이지  개발
+- PHP 운영 유지보수 및 MSA전환
+
+### 신발중개플랫폼 개발
+- Spring boot, JPA, mysql 백엔드
+- NextJs, TypeScript 프론트
+- 신발중개플랫폼 관리자 페이지 (백엔드, 프론트) 개발
+
+### LG전자 품질관리시스템 운영업무
+- LG자체 프레임워크 DevOn, Mxp 툴 사용 
+- 품질관리시스템 관리자 및 웹앱 운영업무
+- 건조기 입출고 프로젝트 진행
+
+### 가상화폐 거래소 API 개발 및 운영업무
+- 가상화폐 거래소 JAVA API 운영업무
+- 가상화폐 페이 및 포인트 외부연동 프로젝트 진행
+
+### 공공기관 SI 프로젝트 16.10 – 18.10
+- 한신 파트너즈 채용공고사이트  관리자페이지 개발
+- 방사능 실험공정관리 시스템 개발
+- 해양기상신호표지 관리시스템 앵귤러JS, typeScript기반 웹앱개발
+- 백두대간 관리자 프로젝트 입출입 통계 개발
