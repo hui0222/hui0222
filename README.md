@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 - 박동휘
 
 ## 회사경력
-- 패스트레인 (여신티켓) 20.06 ~ ing
+- 아몬드컴퍼니 22.03 ~ 23.05
+- 패스트레인 (여신티켓) 20.06 ~ 22.03
 - 힌터 (프로그) 20.01 ~ 20.04
 - 지엠솔루션 19.05 ~ 20.01
 - CME소프트 18.10 ~ 19.03
@@ -59,9 +60,14 @@ Here are some ideas to get you started:
 
 ## 프로젝트
 
+### OTT 플랫폼 개발 및 운영업무
+- Spring boot, Kotlin, JPA 사용
+- 레거시 프로젝트 마이그레이션 개발
+- 운영 유지보수 및 신규 API 개발
+
 ### 피부시술정보 플랫폼 개발 및 운영업무  
 - Elastic Search Cloud 환경 검색엔진 구축
-- JAVA API및 피부보험 관리자페이지  개발
+- JAVA API및 피부보험 관리자페이지 개발
 - PHP 운영 유지보수 및 MSA전환
 
 ### 신발중개플랫폼 개발
