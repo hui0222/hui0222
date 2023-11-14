@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 박동휘
 
 ## 회사경력
+- 브랜디 23.08 ~ 
 - 아몬드컴퍼니 22.03 ~ 23.05
 - 패스트레인 (여신티켓) 20.06 ~ 22.03
 - 힌터 (프로그) 20.01 ~ 20.04
@@ -59,6 +60,11 @@ Here are some ideas to get you started:
 
 
 ## 프로젝트
+
+### 패션 커머스 플랫폼 검색 개발 및 운영업무
+- airflow 및 glue 사용하여 상품, 셀러 데이터 추출 및 인덱싱
+- 어드민 검색관리 도구 및 검색 정확도 향상
+- 검색 API 개발
 
 ### OTT 플랫폼 개발 및 운영업무
 - Spring boot, Kotlin, JPA 사용
